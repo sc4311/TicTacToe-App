@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="MainGame" type="id" />
+    <item name="StartNewGame" type="id" />
+    <item name="GridButton11" type="id" />
+    <item name="GridButton01" type="id" />
+    <item name="GridButton00" type="id" />
+    <item name="GridButton02" type="id" />
+    <item name="GridButton10" type="id" />
+    <item name="GridButton12" type="id" />
+    <item name="GridButton20" type="id" />
+    <item name="GridButton21" type="id" />
+    <item name="GridButton22" type="id" />
+    <item name="xPlayerWins" type="id" />
+    <item name="oPlayerWins" type="id" />
+    <item name="drawsCounter" type="id" />
+    <item name="CurrentTurn" type="id" />
+</resources>
